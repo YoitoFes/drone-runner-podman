@@ -1,0 +1,9 @@
+---
+kind: pipeline
+type: podman
+name: test
+
+steps:
+- ~
+
+...

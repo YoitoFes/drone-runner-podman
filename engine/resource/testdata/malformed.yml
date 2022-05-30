@@ -1,0 +1,8 @@
+---
+kind: pipeline
+type: podman
+
+steps:
+ foo: bar
+
+...

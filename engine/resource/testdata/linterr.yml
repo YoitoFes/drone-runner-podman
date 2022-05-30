@@ -1,0 +1,10 @@
+---
+kind: pipeline
+type: podman
+
+steps:
+- commands:
+  - go build
+  - go test
+
+...

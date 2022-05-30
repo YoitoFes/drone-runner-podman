@@ -1,0 +1,4 @@
+drone-runner-podman
+drone-runner-podman.exe
+release/*
+.env
